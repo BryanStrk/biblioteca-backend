@@ -129,7 +129,7 @@ Swagger UI at: `http://localhost:8080/swagger-ui.html`
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/TU_USUARIO/biblioteca-frontend.git
+git clone https://github.com/https://github.com/BryanStrk/biblioteca-frontend.git
 cd biblioteca-frontend
 ```
 
