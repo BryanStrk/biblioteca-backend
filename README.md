@@ -95,7 +95,7 @@ Book (1) ──────── (N) Reservation
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/https://github.com/BryanStrk/biblioteca-backend.git
+git clone https://github.com/BryanStrk/biblioteca-backend.git
 cd biblioteca-backend
 ```
 
@@ -129,7 +129,7 @@ Swagger UI at: `http://localhost:8080/swagger-ui.html`
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/https://github.com/BryanStrk/biblioteca-frontend.git
+git clone https://github.com/BryanStrk/biblioteca-frontend.git
 cd biblioteca-frontend
 ```
 
@@ -229,4 +229,4 @@ This project follows [Conventional Commits](https://www.conventionalcommits.org/
 ## 👨‍💻 Author
 
 **Bryan** — DAW Student  
-[GitHub](https://github.com/https://github.com/BryanStrk)
+[GitHub](https://github.com/BryanStrk)
